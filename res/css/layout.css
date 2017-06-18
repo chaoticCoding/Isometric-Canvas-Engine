@@ -1,0 +1,35 @@
+/*
+* main layout
+***/
+#main{
+	margin: auto;
+	width: 900px;
+	min-height: 300px;
+}
+
+/*
+* Left side menu
+***/
+#frontMenu-accordion{
+	float: left;
+	width: 295px;
+	padding-right: 20px;
+}
+
+#frontMenu-accordion h4{
+	padding: 2px;
+	margin: 2px;
+}
+
+/*
+* tabs
+***/
+#tabs{
+	margin-left: 315px;
+	width:800px;
+}
+
+#tabs ul{
+	height: 45px;
+}
+
